@@ -106,6 +106,9 @@ export default {
                         Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
                     </p>
                     <p>
+                        MF send a video to me (phoon2816) dont just say "eheg i did it now gimme pointz"
+                    </p>
+                    <p>
                         The recording must also show the player hit the endwall, or the completion will be invalidated.
                     </p>
                     <p>
